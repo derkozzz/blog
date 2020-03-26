@@ -1,4 +1,4 @@
-title: Hi there! I'm Dmitry Meshcheryakov
+title: About gamedev QA
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -10,16 +10,16 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Dmitry Meshcheryakov # add your name
-author-img: david-freeman.jpg # add your photo
-about-author: I am a gamedev QA specialist. More then 10 years in the industry. # add description
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
+author-img: photo_ava.jpg # add your photo
+about-author: "Hi! I am a QA specialist in gamedev. More then 10 years in the industry. I work as Head of QA in Kefir Studio with a team of 15 people. The most famous projects I've worked on are: Last Day on Earth, Forge of Glory, Star Wars: The Old Republic" # add description
+#social-twitter: # add your Twitter handle
+#social-facebook: # add your Facebook handle
 social-github: derkozzz # add your Github handle
-social-linkedin: # add your Linkedin handle
+social-linkedin: dmitriy-meshcheryakov-41a1b110a # add your Linkedin handle
 social-email: derko.derko@gmail.com # add your Email address
 
 # Disqus
-discus-identifier: mr-brown # add your discus identifier
+discus-identifier: derkozzz # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
